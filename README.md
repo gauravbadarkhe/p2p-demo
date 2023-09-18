@@ -3,7 +3,7 @@
 ## Goals & Todo's
 
 [x] - Create P2P Connections
-[ ] - Create one-many Connections
+[x] - Create many-many Connections
 [ ] - Presist Data between sessions
 [ ] - Read Load data
 [ ] - Listen To new data
